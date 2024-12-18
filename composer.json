@@ -1,6 +1,6 @@
 {
-    "name": "sereny/nova-permissions",
-    "description": "Laravel Nova 4 Grouped Permissions",
+    "name": "christian-heiko/nova-permissions-nova-5",
+    "description": "Laravel Nova 5 Grouped Permissions",
     "keywords": [ "laravel", "nova", "permission", "role" ],
     "license": "MIT",
     "prefer-stable": true,
